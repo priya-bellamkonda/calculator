@@ -1,0 +1,8 @@
+Enter the first number:
+2
+Enter the second number:
+6
+Addition: 8
+Subtraction: -4
+Multiplication: 12
+Division: 0
